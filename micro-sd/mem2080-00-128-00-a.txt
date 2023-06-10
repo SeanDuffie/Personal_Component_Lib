@@ -1,0 +1,18 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"MEM2080-00-128-00-A";"";
+"MATERIAL";"Surface mount";"";
+"SUPPLIER";"GCT";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"att_3b6178f82aa0ee2c29b45bbe7";"Without locating peg";"";
+"TraceParts.PartNumber";"90-19072022-057332";"";
+"att_505ed6a0b2f2b8f1ca641db75";"1.28";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"MicroSD Memory Card Connector, Push-Push, SMT, Normally open switch, 1.28mm Profile";"";
+"TraceParts.InstanceId";"90-19072022-0573328IULKTMDWVDQUYXZX3W0Z00L1";"";
+"TraceParts.PartTitle";"MEM2080";"";
+"att_ddab9fd3d723a39a58397ea85";"Normal";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"att_0632cc4ddc9dcf247ac615a1a";"Push push";"";
+"att_2bc63de2dfe75348836646bbd";"8 (+2 for CD Switch)";"";
+"att_434db119a074b9aa3151a6b7d";"Normally open switch";"";
+"att_633808e8658549c1a24dcd429";"MicroSD";"";
