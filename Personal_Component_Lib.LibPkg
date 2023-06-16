@@ -548,7 +548,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=Tantalum Capacitor\TAJD226K025RNJ\Altium\CAPPM7344X310N.PcbLib
+DocumentPath=Tantalum Capacitor\TAJD226K025RNJ\CAPPM7344X310N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -562,10 +562,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AXLHQKAR
+DocumentUniqueId=
 
 [Document32]
-DocumentPath=Tantalum Capacitor\TAJD226K025RNJ\Altium\TAJD226K025RNJ.SchLib
+DocumentPath=Tantalum Capacitor\TAJD226K025RNJ\TAJD226K025RNJ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -579,7 +579,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AUVUCYRS
+DocumentUniqueId=
 
 [Generic_EDE]
 OutputDir=..\Personal_Component_Lib
